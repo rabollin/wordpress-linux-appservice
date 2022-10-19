@@ -1,10 +1,10 @@
 # WordPress Application Settings
 
-This document described the different type of application settings that would get created and configured at run time for the WordPress on Azure AppService deployed from Azure Marketplace.
+This document describes the different type of application settings that gets created and configured at run time for the WordPress on Azure AppService deployed from Azure Marketplace.
 
 ## Fixed Application Settings
 
- Configuration that can be changed and have an affect  on your WordPress site through the lifetime of your app. Any changes to these settings will update the same in your WordPress application.
+ Configurations that can be changed and have an affect  on your WordPress site through the lifetime of your app. Any changes to these settings will get updated in your WordPress application.
 
 | Application Setting  | Scope | Default Value | Max Value  | Description                      |
 |----------------------|-------------|---------------|-------------|---------------------------|
