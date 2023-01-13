@@ -8,11 +8,14 @@ Automated Migrations allows you to easily migrate your WordPress site to Linux A
 
 **Before Migrating:**
 1.Create a new WordPress site from marketplace offering: [Azure Market Place](https://aka.ms/linux-wordpress) to migrate your existing website to.
+
 2.Make sure you have access permissions to the subscriptions & apps for both existing & new sites
 
 ## WordPress Migration Tool
 
 WordPress migration tool for app services is a one-click service to migrate a WordPress on Windows Azure App Service to a WordPress on Linux App Service. Download the WordPressMigrationTool.zip from [this link](https://aka.ms/WPmigration) to your local machine and extract the zip file.
+
+**Note:** For any reasons, if the migration cannot be run with the automated tool, then follow the manual migration as per the steps outlined in [Migration guide](https://github.com/Azure/wordpress-linux-appservice/blob/main/WordPress/wordpress_migration_linux_appservices.md).
 
 **Prerequisites to launch the exe:**
 
